@@ -1,4 +1,4 @@
-# A simple lambda to demonstrate the error `Error: fork/exec /var/task/main: no such file or directory","errorType` when the lambda is invoked in Localstack
+# A simple lambda to demonstrate the error "Error: fork/exec /var/task/main: no such file or directory" when the lambda is invoked in Localstack
 
 ## Requirements
 
