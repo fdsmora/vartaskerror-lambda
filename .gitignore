@@ -1,0 +1,3 @@
+deployment/function.zip
+bin/main
+src/.localstack
